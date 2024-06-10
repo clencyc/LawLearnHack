@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Cider">#B56727</color>
+    <color name="Honey">#EC9706</color>
+    <color name="boxBackgroundColor">#FFFFFF</color>
+    <color name="boxStrokeColor">#6200EE</color>
+    <color name="helperTextColor">#FF0000</color>
+    <color name="textColor">#000000</color>
 </resources>
