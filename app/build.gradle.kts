@@ -3,6 +3,21 @@ plugins {
     alias(libs.plugins.jetbrains.kotlin.android)
 }
 
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
 android {
     namespace = "com.example.lawlearngirlcode"
     compileSdk = 34
@@ -26,6 +41,7 @@ android {
             )
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
@@ -38,7 +54,7 @@ android {
 dependencies {
 
     implementation(libs.androidx.core.ktx)
-    implementation(platform(libs.firebase.bom))
+    //implementation(platform(libs.firebase.bom))
     implementation(libs.google.firebase.database.ktx)
     implementation(libs.firebase.database.ktx)
     implementation(libs.androidx.appcompat)
