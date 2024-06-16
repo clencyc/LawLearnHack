@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799029758284",
+    "project_id": "lawlearngirlcode",
+    "storage_bucket": "lawlearngirlcode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799029758284:android:065f3e69333ab1d3e867e9",
+        "android_client_info": {
+          "package_name": "com.example.lawlearngirlcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWHA5RuRJcWBELQETjd_Fu-LdiOQCRckI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
