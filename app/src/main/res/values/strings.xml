@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LawLearning</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Quiz</string>
+    <string name="menu_slideshow">Progress</string>
+    <string name="HiSophia">Hi Sophia\n</string>
+    <string name="rights_and_responsibilities">Rights and Responsibilities</string>
+    <string name="what_are_righs">1. What are rights?</string>
+    <string name="rights">Rights are things that everyone should have or be able to do. They are like special protections that
+help you live a happy and healthy life. Here are some examples of rights you have:</string>
+
+    <string name="cardone">Right to Be Safe: You have the right to live in a safe place
+where you are protected from harm.</string>
+
+    <string name="cardtwo">Right to Education: You have the right to go to school
+and learn.</string>
+
+    <string name="cardthree">Right to Speak: You have the right to express your
+thoughts and opinions.</string>
+
+    <string name="cardfour">Right to Play: You have the right to play and have fun.</string>
+    <string name="this_is_content_inside_the_card">This is content inside the card</string>
+    <string name="responsibilities">Responsibilities are things you are expected to do. They help you and others around you live well
+together. Here are some examples of responsibilities you might have:</string>
+    <string name="responsibilities_of_children">Responsibilities of children</string>
+
+    <string name="listen">To Listen: You should listen to your parents, teachers, and other adults.</string>
+    <string name="chores">Do Your Chores: You should help with tasks at home, like cleaning your room
+or setting the table.</string>
+    <string name="kind">Be Kind: You should treat others with kindness and respect.</string>
+    <string name="study">To Study: You should do your homework and try your best in school.</string>
+    <string name="let_s_learn">Let\'s Learn</string>
+</resources>
