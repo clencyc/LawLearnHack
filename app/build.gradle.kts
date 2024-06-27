@@ -48,6 +48,8 @@ dependencies {
     implementation("com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0")
     //adding fragment dependency
     implementation(libs.material)
+    // circular image dependency
+    implementation(libs.circleimageview)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.lifecycle.livedata.ktx)
     implementation(libs.androidx.lifecycle.viewmodel.ktx)

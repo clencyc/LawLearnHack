@@ -13,13 +13,19 @@
         android:theme="@style/Theme.LawLearning"
         tools:targetApi="31">
         <activity
+            android:name=".intents.Intent_four"
+            android:exported="false" />
+        <activity
+            android:name=".intents.Intentthree"
+            android:exported="false" />
+        <activity
             android:name=".splashscreen"
             android:exported="false" />
         <activity
-            android:name=".Intent_two"
+            android:name=".intents.Intent_two"
             android:exported="false" />
         <activity
-            android:name=".Intent_one"
+            android:name=".intents.Intent_one"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
