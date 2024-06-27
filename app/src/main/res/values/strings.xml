@@ -41,4 +41,10 @@ or setting the table.</string>
     <string name="a_government_is_a_group_of_people_who_make_decisions_and_create_rules_to_help_run_a_country_state_or_community">A government is a group of people who make decisions and create rules to help run a country, state, or community.</string>
     <string name="basic_government_structure">Basic Government structure</string>
     <string name="_3_main_government_parts">3 main government parts</string>
+    <string name="law_quiz">Law Quiz</string>
+    <string name="a_teachers">A. Teachers</string>
+    <string name="b_parents">B. Parents</string>
+    <string name="c_government">C. Government</string>
+    <string name="d_friends">D. Friends</string>
+    <string name="enter_your_answer">Enter your answer</string>
 </resources>
