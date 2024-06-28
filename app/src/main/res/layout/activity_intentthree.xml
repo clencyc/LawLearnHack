@@ -92,27 +92,58 @@
                     android:layout_marginTop="30dp"
                     android:src="@drawable/down_arrow" />
 
-                <View
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginLeft="20dp"
-                    android:layout_marginTop="65dp"
-                    android:background="@drawable/circle_bg" />
 
-                <View
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="170dp"
-                    android:background="@drawable/circle_bg" />
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="103dp"
+                    android:layout_height="104dp"
+                    android:layout_marginTop="190dp"
+                    android:layout_marginStart="100dp"
+                    app:srcCompat="@drawable/judiciary" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Judiciary"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:layout_marginTop="190dp"
+                    android:layout_marginStart="100dp"
+                    />
 
-                <View
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="end"
-                    android:layout_marginTop="65dp"
-                    android:layout_marginEnd="20dp"
-                    android:background="@drawable/circle_bg" />
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="144dp"
+                    android:layout_height="87dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="100dp"
+                    app:srcCompat="@drawable/legislature" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Legislature"
+                    android:layout_marginStart="10dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="100dp"
+                    android:textColor="@color/black"
+                    />
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="123dp"
+                    android:layout_height="89dp"
+                    android:layout_marginStart="170dp"
+                    android:layout_marginTop="100dp"
+                    app:srcCompat="@drawable/exec" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Executive"
+                    android:textColor="@color/black"
+                    android:layout_marginStart="170dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="100dp"
+
+                    />
             </androidx.cardview.widget.CardView>
 
             <!-- Add more CardViews here -->

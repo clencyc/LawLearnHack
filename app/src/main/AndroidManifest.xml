@@ -13,9 +13,6 @@
         android:theme="@style/Theme.LawLearning"
         tools:targetApi="31">
         <activity
-            android:name=".intents.Intent_four"
-            android:exported="false" />
-        <activity
             android:name=".intents.Intentthree"
             android:exported="false" />
         <activity
